@@ -1,23 +1,23 @@
-# Welcome to your Lovable project
+# Hey, I’m Fedi
 
-This project was built with [Lovable](https://lovable.dev).
+This project started here and grew into something real — built with Visual Studio Code and polished for local development.
 
-## Build with Lovable
+## What’s inside
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I put this together with React, TypeScript, and a clean component system so it’s easy to extend.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Fast setup**: clone it, install, and start coding.
+- **Git-ready**: the repo is primed for GitHub and ready to push.
+- **Real ownership**: you keep the code, and you control the direction.
 
-## Development
+## Run it locally
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+If you like working on your machine, use Node.js and npm.
 
 ```sh
 git clone <this-repository-url>
 cd <repository-name>
-npm i
+npm install
 npm run dev
 ```
 
